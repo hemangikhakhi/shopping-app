@@ -1,0 +1,15 @@
+[
+    {
+        "name": "mobile",
+        "stock": 10
+    },
+    {
+        "name": "computer",
+        "stock": 5,
+        "maxPurchase": 2
+    },
+    {
+        "name": "headphone",
+        "stock": 1
+    }
+]
