@@ -4,6 +4,23 @@
     "name": "Apple 14",
     "price": 500,
     "category": "mobile",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    },
     "imgUrl": "/imgs/mobile.jpg"
   },
   {
@@ -11,55 +28,192 @@
     "name": "Samsung",
     "price": 108,
     "category": "mobile",
-    "imgUrl": "/imgs/mobile.jpg"
+    "imgUrl": "/imgs/mobile.jpg",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    }
   },
   {
     "id": 3,
     "name": "Vivo",
     "price": 100,
     "category": "mobile",
-    "imgUrl": "/imgs/mobile.jpg"
+    "imgUrl": "/imgs/mobile.jpg",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    }
   },
   {
     "id": 4,
     "name": "Mac mini",
     "price": 13999,
     "category": "computer",
-    "imgUrl": "/imgs/computer.jpg"
+    "imgUrl": "/imgs/computer.jpg",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    }
   },
   {
     "id": 5,
     "name": "Mac Book",
     "price": 12000,
     "category": "computer",
-    "imgUrl": "/imgs/computer.jpg"
-  }, {
+    "imgUrl": "/imgs/computer.jpg",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    }
+  },
+   {
     "id": 6,
     "name": "Mac",
     "price": 14000,
     "category": "computer",
-    "imgUrl": "/imgs/computer.jpg"
+    "imgUrl": "/imgs/computer.jpg",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    }
   },
   {
     "id": 7,
     "name": "Boat",
     "price": 10,
     "category": "headphone",
-    "imgUrl": "/imgs/headphone.jpg"
+    "imgUrl": "/imgs/headphone.jpg",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    }
   },
   {
     "id": 8,
     "name": "Philips",
     "price": 20,
     "category": "headphone",
-    "imgUrl": "/imgs/headphone.jpg"
+    "imgUrl": "/imgs/headphone.jpg",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    }
   },
   {
     "id": 9,
     "name": "JBL",
     "price": 15,
     "category": "headphone",
-    "imgUrl": "/imgs/headphone.jpg"
+    "imgUrl": "/imgs/headphone.jpg",
+    "description": {
+      "displayName": "Apple iPhone 14 128GB Midnight",
+      "taxDetails": "Pay only ₹79,900.00 ₹79,750.00. Apply & get ₹150 back + rewards worth ₹1,550. 3% back on shopping | Amazon Pay ICICI credit card.",
+      "offers": [
+        {
+          "name": "Cashback",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        },
+        {
+          "name": "BankOffer",
+          "description": "₹200 cashback & ₹1,800 welcome rewards on Amazon Pay ICICI Credit Card . 5% cashback every time on shopping. Apply now! T&C. Not applicable on Amazon Business Transactions"
+        }
+      ],
+      "brand": "Apple",
+      "model": "iPhone",
+      "variant": [ { "name": "128GB"}, { "name": "256GB"},{ "name": "512GB"}]
+    }
   }
   
  
