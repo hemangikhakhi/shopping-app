@@ -53,26 +53,27 @@ export function ProductItem({
               {formatCurrency(price)}
             </Typography>
           </CardContent>
-          <CardActions>
-            {quantity === 0 ? (
-              <Button
-                className="w-100"
-                onClick={() => increaseCartQuantity(id, category)}
-              >
-                + Add To Cart
-              </Button>
-            ) : (
-              <div>
-                <Button onClick={() => decreaseCartQuantity(id)}>-</Button>
-                <span>{quantity} </span>
-                <Button onClick={() => increaseCartQuantity(id, category)}>
-                  +
-                </Button>
-                <Button onClick={() => removeFromCart(id)}>Remove</Button>
-              </div>
-            )}
-          </CardActions>
         </CardActionArea>
+
+        <CardActions>
+          {quantity === 0 ? (
+            <Button
+              className="w-100"
+              onClick={() => increaseCartQuantity(id, category)}
+            >
+              + Add To Cart
+            </Button>
+          ) : (
+            <div>
+              <Button onClick={() => decreaseCartQuantity(id)}>-</Button>
+              <span>{quantity} </span>
+              <Button onClick={() => increaseCartQuantity(id, category)}>
+                +
+              </Button>
+              <Button onClick={() => removeFromCart(id)}>Remove</Button>
+            </div>
+          )}
+        </CardActions>
       </Card>
       {isDialogOpen && (
         <ProductDetailPage
